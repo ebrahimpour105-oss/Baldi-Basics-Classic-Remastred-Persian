@@ -6,7 +6,7 @@ this file has BBCR convert english to persian :} i am doing my best to update th
 # 🇮🇷 Baldi's Basics Classic Remastered — Persian
 
 <img src="Picsart_26-08-04_12-17-27-587.png" width="900">
-### فارسی‌ساز Baldi's Basics Classic Remastered
+فارسی ساز baldi basics Classic Remastered
 
 [![Version](https://img.shields.io/badge/Version-2.0.0-blue)](.)
 
